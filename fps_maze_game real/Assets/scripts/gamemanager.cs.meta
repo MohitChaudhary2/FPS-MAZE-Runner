@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 7020689e1d247494f8f34b6a9f880304
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - objectivetext: {instanceID: 0}
+  - found: {instanceID: 0}
+  - doorkey: {instanceID: 0}
+  - dooropen: {instanceID: 0}
+  - doorclosed: {instanceID: 0}
+  - completed: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
