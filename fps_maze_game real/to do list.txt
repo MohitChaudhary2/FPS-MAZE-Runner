@@ -1,11 +1,12 @@
 //***To Do List For The Game***//
 
-1. add sounds of coin from level 4
+1. add sounds of coin from level 4// Done
 2. add sounds for opening chest and collecting keys
 3. add background music 
 4. modify last levels(change maps and other lightning systems)
-5. update unity monetization package
-6. check for the working of the ads
-7. add ads to collect more gold in level menu
+5. update unity monetization package//done
+6. check for the working of the ads//done but not working properly
+7. add ads to collect more gold in level menu// done
 9. make an icon for the game
-10.give a good ending 
+10.give a good ending //workin on it
+11. optimised my game.
